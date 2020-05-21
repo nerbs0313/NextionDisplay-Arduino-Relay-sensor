@@ -1,0 +1,3 @@
+overpour,fc 10,w 5,p 5,w 5,p 5
+dotdrip,fc 10,w 3,p 3,w 3,p 3,w 3,p 3,w 3
+spiral,fc 15,w 1,p 10,w 5,p 5,w 2,p 2,w 2

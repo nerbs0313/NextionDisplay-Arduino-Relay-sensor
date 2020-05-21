@@ -1,0 +1,7 @@
+  UserMenuRecipe0.attachPop(UserMenuRecipePopCallback,&UserMenuRecipe0); 
+  UserMenuRecipe1.attachPop(UserMenuRecipePopCallback);
+
+아래처럼 보내면 getText가 안되는데  get .txt 처럼 공백으로 인식
+위처럼 주소까지 같이 보내주면 인식을 하더라. get b0.txt
+
+https://platformio.org/lib/show/37/Nextion
